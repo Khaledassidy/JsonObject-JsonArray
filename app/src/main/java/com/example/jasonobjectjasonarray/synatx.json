@@ -1,0 +1,19 @@
+{
+ "username" : "khaled",
+ "country" : "Lebanon",
+ "skills"   : ["HTML","JAVA","XML","PYTHON"],
+ "location" : {
+  "lebanon" : "baalbeck",
+  "egypt"   : "skandaria",
+  "KSA"     : "malaz",
+  "USA"     : "california",
+  "Germany" : ["one","two","three"]
+ },
+ "Age"      : 22,
+ "Working"  : false,
+ "Identity" : null
+
+
+
+
+}
